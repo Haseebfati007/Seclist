@@ -58,33 +58,28 @@ Y='\033[1;93m'
 #Dev:TECH ABM
 #### LOGO ####
 logo = """
-\033[1;93m                           oo
-\033[1;94m                         oOOOOo
-\033[1;91m                        oOOOOOOo
-\033[1;93m                        oOOOOOOo
-\033[1;94m                         oOOOOo
-\033[1;91m                           oo
-\033[1;93m              A
-\033[1;94m              AMa
-\033[1;91m             VMMML
-\033[1;94m            h  VMMHMA
-\033[1;93m             VAMMMMMMA;,.
-\033[1;91m              VHHHHHHV^^^^^
-\033[1;94m               AMMMMM
-\033[1;93m              AMMMMMHHha           A
-\033[1;94m              AMMMMMMMMMmma        VA
-\033[1;91m              MMMMMMMMMMMMMMMA      AV
-\033[1;93m              VMMMMMMMMMMMMMMMMMA   AV
-\033[1;94m              MM  VMMMMMMMMMMMMMMMMMV
-\033[1;91m              MM     VMMMMMMMMMMMMMV
-\033[1;93m____________AMA__AMMMMMMMMMMMMMMMV_________
-\033[1;91m\\ \\ \\ \\ \\\\\\\\\    \ \   \  \  \  \ \
-\033[1;94m\\\/ \ //\\ \\\ ///  /\ \\\ \/ \\/ \\ /\ //
-\033[1;93m \\\/\\\/\\/\ /\ /\/\/ \\/\/ \// \ /\ \/ \\
-\033[1;91m /\\ /\\/ \/\/\ /\ /\/\ / ///\\ \\\/ /\\\\\
-\033[1;93m \ \\\ \\\\\\\\/     /\\\     /\\ /\\/\\/ /
-\033[1;94m  \\\//\\\\/\/\\/\/ \/ /\/\/\  /\/\\\\/ // \
-\033[1;93m   \\\\/ //// \\\\ / \/\ /\/\ \/ /\ \\\ / /          
+\033[1;94m                       ,ood8888booo,
+\033[1;93m                    ,oda8a888a888888bo,
+\033[1;95m                 ,od88888888aa888aa88a8bo,
+\033[1;94m               ,da8888aaaa88a888aaaa8a8a88b,
+\033[1;93m              ,oa888aaaa8aa8888aaa8aa8a8a88o,
+\033[1;93m             ,88888aaaaaa8aa8888a8aa8aa888a88,
+\033[1;95m             8888a88aaaaaa8a88aa8888888a888888
+\033[1;94m             888aaaa88aa8aaaa8888; ;8888a88888
+\033[1;93m             Y888a888a888a8888;'   ;888888a88Y
+\033[1;95m              Y8a8aa8a888a88'      ,8aaa8888Y
+\033[1;94m               Y8a8aa8aa8888;     ;8a8aaa88Y
+\033[1;95m                `Y88aa8888;'      ;8aaa88Y'
+\033[1;93m        ,,;;;;;;;;'''''''         ;8888Y'
+\033[1;95m     ,,;                         ,888P
+\033[1;94m   ,;  ,;,                      ;""
+\033[1;95m  ;       ;          ,    ,    ,;
+\033[1;95m ;  ;,    ;     ,;;;;;   ;,,,  ;
+\033[1;94m;  ; ;  ,' ;  ,;      ;  ;   ;  ;
+\033[1;95m; ;  ; ;  ;  '        ; ,'    ;  ;
+\033[1;94m`;'  ; ;  '; ;,       ; ;      ; ',
+\033[1;93m     ;  ;,  ;,;       ;  ;,     ;;;
+\033[1;95m      ;,,;             ;,,;          
 \033[0;95m╭════════════════════════════════════════════╮
 \033[0;91m║\033[0;91mAUTHOR : \033[0;92mTECH ABM                     \033[0;91m      ║
 \033[0;91m║\033[0;91mGITHUB :\033[0;92m https://github.com/Tech-abm   \033[0;91m     ║
@@ -158,7 +153,7 @@ def lisensi():
 def login():
 	os.system('clear')
 	print logo
-	jalan("\033[1;96m⊱⋕⊰══════════════════════════════════════⊱⋕⊰") 
+	print 42*"="
 	print "\033[1;91m>>>\033[1;91m[1]\033[1;93m Login with Facebook  "
         time.sleep(0.05)
         print "\033[1;91m>>>\033[1;91m[2]\033[1;94m Login with access token "
@@ -170,7 +165,7 @@ def login():
 	print "\033[1;91m>>>\033[1;91m[5]\033[1;93m See all abm command" 
 	time.sleep(0.05)
 	print "\033[1;91m>>>\033[1;91m[0]\033[1;96m Logout        "
-	jalan("\033[1;96m⊱⋕⊰══════════════════════════════════════⊱⋕⊰") 
+        print 42*"="
 	pilih_login()
 
 def pilih_login():
@@ -210,12 +205,12 @@ def login1():
 		os.system('clear')
                 time.sleep(0.05)
 		print logo
-		jalan("\033[1;96m⊱⋕⊰══════════════════════════════════════⊱⋕⊰") 
+		print 42*"="
 		jalan('\033[1;96m[✾]\x1b[1;91mDO NOT USE OLD ACCOUNT TO LOGIN\x1b[1;96m[✾]' )
 		jalan('\033[1;96m[✾]\x1b[1;91mUSE A FRESH/NEW ACCOUNT TO LOGIN\x1b[1;96m[✾]' )
 		id = raw_input('\033[1;96m[!!] \x1b[0;34mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[!!] \x1b[0;34mPassword \x1b[1;91m: \x1b[1;92m')
-		jalan("\033[1;96m⊱⋕⊰══════════════════════════════════════⊱⋕⊰") 
+		print 42*"="
 		tik()
 		try:
 			br.open('https://m.facebook.com')
@@ -263,7 +258,8 @@ def login1():
 def tokenz():
 	os.system('clear')
 	print logo
-	toket = raw_input("\033[1;91m[+]\033[1;92mToken\033[1;91m :\033[1;95mEnter accees token link without Fb login>> ")
+	print 42*"="
+	toket = raw_input("\033[1;91m[+]\033[1;92m Give Token\033[1;91m :\033[1;95>>\033[1;93m ")
 	try:
 		otw = requests.get('https://graph.facebook.com/me?access_token='+toket)
 		a = json.loads(otw.text)
@@ -311,13 +307,14 @@ def menu():
 		keluar()
 	os.system("clear")
 	print logo
-	jalan( "\033[1;93m⊱⋕⊰═════════════════════════════════════════⊱⋕⊰"  ) 
+        print 42*"="
 	print "  \033[1;36;40m\033[1;32;40m[*] Name\033[1;32;40m: "+nama+"  	   \033[1;36;40m"                               
 	print "  \033[1;36;40m\033[1;32;40m[*] ID  \033[1;32;40m: "+id+"        \033[1;36;92m"
 	print "  \033[1;36;40m\033[1;32;40m[*] Subs\033[1;32;40m: "+sub+"           \033[1;36;92m"
-	jalan( "\033[1;93m⊱⋕⊰═════════════════════════════════════════⊱⋕⊰") 
+	print 42*"="
 	print "\033[1;32;98m[1] \033[1;96m>> start Cloning "																														
 	print "\033[1;32;98m[0] \033[1;96m>> Log out"
+	print 42*"="
 	pilih()
 
 def pilih():
@@ -330,7 +327,7 @@ def pilih():
 	elif unikers =="2":
 		os.system('clear')
 		print logo
-		print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n" 
+		print 42*"="
 		os.system('git pull origin master')
 		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
 		menu()
@@ -354,10 +351,10 @@ def super():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n" 
+        print 42*"="
 	jalan( "\x1b[1;32;92m[1] \033[1;33;98m>> Crack From Public ID") 
 	jalan( "\x1b[1;32;36m[0] \033[1;33;96m>> Back") 
-	print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n" 
+	print 42*"="
 	pilih_super()
 
 def pilih_super():
@@ -368,7 +365,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;96m⊱⋕⊰═══════════════════════════════════════⊱⋕⊰\n" 
+		print 42*"="
 		idt = raw_input("\033[1;96m[⊱⋕⊰]\033[1;93m Enter ID/USERNAME\033[1;91m : ")
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
@@ -395,8 +392,8 @@ def pilih_super():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[⊱⋕⊰] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
-	print "\n\033[1;94m   ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m  ❈"
-	print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰\n" 
+	print "\n\033[1;94m   ❈     \033[1;91mCp Account Open After 7 days      \033[1;94m  ❈"
+	print 42*"="
 
 	def main(arg):
 		global oks
@@ -612,7 +609,7 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;96m⊱⋕⊰══════════════════════════════════════════⊱⋕⊰" 
+	print 42*"="
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mCP File Has Been Saved \033[1;91m: \033[1;97mout/checkpoint.txt")
