@@ -154,7 +154,7 @@ def lisensi():
 def login():
 	os.system('clear')
 	print logo
-	print 42*"="
+	print 42*"\033[1;97m="
 	print "\033[1;91m>>>\033[1;91m[1]\033[1;93m Login with Facebook  "
         time.sleep(0.05)
         print "\033[1;91m>>>\033[1;91m[2]\033[1;94m Login with access token "
@@ -166,7 +166,7 @@ def login():
 	print "\033[1;91m>>>\033[1;91m[5]\033[1;93m See all abm command" 
 	time.sleep(0.05)
 	print "\033[1;91m>>>\033[1;91m[0]\033[1;96m Logout        "
-        print 42*"="
+        print 42*"\033[1;97m="
 	pilih_login()
 
 def pilih_login():
@@ -206,12 +206,12 @@ def login1():
 		os.system('clear')
                 time.sleep(0.05)
 		print logo
-		print 42*"="
+		print 42*"\033[1;97m="
 		jalan('\033[1;96m[✾]\x1b[1;91mDO NOT USE OLD ACCOUNT TO LOGIN\x1b[1;96m[✾]' )
 		jalan('\033[1;96m[✾]\x1b[1;91mUSE A FRESH/NEW ACCOUNT TO LOGIN\x1b[1;96m[✾]' )
 		id = raw_input('\033[1;96m[!!] \x1b[0;34mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[!!] \x1b[0;34mPassword \x1b[1;91m: \x1b[1;92m')
-		print 42*"="
+		print 42*"\033[1;97m="
 		tik()
 		try:
 			br.open('https://m.facebook.com')
@@ -308,14 +308,14 @@ def menu():
 		keluar()
 	os.system("clear")
 	print logo
-        print 42*"="
+        print 42*"\033[1;97m="
 	print "  \033[1;36;40m\033[1;32;40m[*] Name\033[1;32;40m: "+nama+"  	   \033[1;36;40m"                               
 	print "  \033[1;36;40m\033[1;32;40m[*] ID  \033[1;32;40m: "+id+"        \033[1;36;92m"
 	print "  \033[1;36;40m\033[1;32;40m[*] Subs\033[1;32;40m: "+sub+"           \033[1;36;92m"
-	print 42*"="
+	print 42*"\033[1;97m="
 	print "\033[1;32;98m[1] \033[1;96m>> start Cloning "																														
 	print "\033[1;32;98m[0] \033[1;96m>> Log out"
-	print 42*"="
+	print 42*"\033[1;97m="
 	pilih()
 
 def pilih():
@@ -366,7 +366,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print 42*"="
+		print 42*"\033[1;97m="
 		idt = raw_input("\033[1;96m[⊱⋕⊰]\033[1;93m Enter ID/USERNAME\033[1;91m : ")
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
@@ -394,7 +394,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[⊱⋕⊰] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m   ❈     \033[1;91mCp Account Open After 7 days      \033[1;94m  ❈"
-	print 42*"="
+	print 42*"\033[1;97m="
 
 	def main(arg):
 		global oks
@@ -610,7 +610,7 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print 42*"="
+	print 42*"\033[1;97m="
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mCP File Has Been Saved \033[1;91m: \033[1;97mout/checkpoint.txt")
