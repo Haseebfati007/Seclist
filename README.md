@@ -16,4 +16,12 @@
 
 # pip2 install requests 
 
-# python2 Abm-bolt.py
+# Pakistan FB cloning Type 👉  python2 Pakclone.py
+
+# India FB cloning Type 👉 python2 Indiaclone.py
+
+# Bangladesh FB cloning Type 👉 python2 Bangalclone.py
+
+**** Thank for using my File ****
+
+**** Don't forgot fork and start ****
