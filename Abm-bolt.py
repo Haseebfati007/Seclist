@@ -85,11 +85,7 @@ logo = """
 \033[0;91m║\033[0;91mGITHUB :\033[0;92m https://github.com/Tech-abm   \033[0;91m     ║
 \033[0;91m║\033[0;91mFB PAGE :\033[0;92m https://m.facebook.com/Techabm \033[0;91m   ║
 \033[0;95m╰════════════════════════════════════════════╯
-\033[1;94m⊱═════════════════⊱═⊰DISCLAIMER⊱═⊰═════════════════⊰
-\033[1;91mWARNING :\033[1;93mUSE A FRESH ACCOUNT TO LOGIN, DO NOT USE OLD ACCOUNT LOGIN OTHERWISE YOUR ACCOUNT WILL BE BLOCK
-\033[1;91mWIFI OR MOBILE DATA :\033[1;93mDO NOT USE WIFI, ONLY MOBILE DATA USE FOR CLONING 
-\033[1;91Login Problem solved:\033[1;93mConnect Singapore proxy, to new account login 
-\033[1;91Login Access token:\033[1;93mGive access token to account login 
+
 """
     
 
