@@ -1,6 +1,6 @@
 ![TECH ABM](https://user-images.githubusercontent.com/52023076/89865685-07f58e80-db63-11ea-8b07-75d29a563105.gif)
 
-# Seclist 💯
+# Seclist___Installation 💯
 
 # pkg update -y
 
@@ -30,13 +30,15 @@
 
 # Malaysia FB cloning Type 👉 python2 Malaysiaclone.py
 
-# <<=========================================>>
+# <<====================================>>
 
 # ❤️❤️ Tools Update Successful ❤️❤️
 
 # 💞💞 Version 1.1.0 💞💞
 
-# <<=========================================>>
+# 👅👅 By Tech Abm 👅👅
+
+# <<====================================>>
 
 
 
