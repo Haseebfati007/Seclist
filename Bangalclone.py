@@ -91,8 +91,6 @@ logo = """
 \033[0;95m╰════════════════════════════════════════════╯
 
 """
-    
-
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -161,10 +159,6 @@ def login():
         time.sleep(0.05)
         print "\033[1;91m>>>\033[1;91m[3]\033[1;93m Download Access token"
 	time.sleep(0.05)
-	print "\033[1;91m>>>\033[1;91m[4]\033[1;94m Subscribe Tech Abm Channel" 
-	time.sleep(0.05) 
-	print "\033[1;91m>>>\033[1;91m[5]\033[1;93m See all abm command" 
-	time.sleep(0.05)
 	print "\033[1;91m>>>\033[1;91m[0]\033[1;96m Logout        "
         print 42*"\033[1;97m="
 	pilih_login()
@@ -181,12 +175,6 @@ def pilih_login():
         elif peak =="3":
 	        os.system('xdg-open https://play.google.com/store/apps/details?id=com.proit.thaison.getaccesstokenfacebook')
 	        login()
-	elif peak =="4":
-		os.system('xdg-open https://www.youtube.com/channel/UC5jned7it1eduNGSHP9C0qw')
-		login()
-	elif unikers =="5":
-		os.system('xdg-open https://github.com/Tech-abm')
-		login()
 	elif unikers =="0":
 		jalan('Token Removed')
 		os.system('rm -rf login.txt')
@@ -195,8 +183,7 @@ def pilih_login():
 		print "\x1b[1;91mFill in correctly"
 		pilih()
 			
-		
-	
+			
 def login1():
 	os.system('clear')
 	try:
