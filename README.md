@@ -24,4 +24,12 @@
 
 # Bangladesh FB cloning Type 👉 python2 Bangalclone.py
 
+# Indonisia FB cloning Type 👉 python2 Indoclone.py
+
+# America FB cloning Type 👉 python2 Usaclone.py
+
+# Malaysia FB cloning Type 👉 python2 Malaysiaclone.py
+
+[] Tools Update successful ✅
+
 ![PicsArt_08-07-12 32 43](https://user-images.githubusercontent.com/52023076/89867871-b2bb7c00-db66-11ea-9d4e-8fc298a4fe99.jpg)
