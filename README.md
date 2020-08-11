@@ -30,6 +30,15 @@
 
 # Malaysia FB cloning Type 👉 python2 Malaysiaclone.py
 
-[] Tools Update successful ✅
+# <<=========================================>>
+
+# ❤️❤️ Tools Update Successful ❤️❤️
+
+# 💞💞 Version 1.1.0 💞💞
+
+# <<=========================================>>
+
+
+
 
 ![PicsArt_08-07-12 32 43](https://user-images.githubusercontent.com/52023076/89867871-b2bb7c00-db66-11ea-9d4e-8fc298a4fe99.jpg)
