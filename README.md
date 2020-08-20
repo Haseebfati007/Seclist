@@ -18,23 +18,15 @@
 
 # pip2 install requests 
 
-# Pakistan FB cloning Type 👉  python2 Pakclone.py
+# python2 Abm-hacker.py
 
-# India FB cloning Type 👉 python2 Indiaclone.py
-
-# Bangladesh FB cloning Type 👉 python2 Bangalclone.py
-
-# Indonisia FB cloning Type 👉 python2 Indoclone.py
-
-# America FB cloning Type 👉 python2 Usaclone.py
-
-# Malaysia FB cloning Type 👉 python2 Malaysiaclone.py
+# All fb cloning in one Tools ✅
 
 # <<====================================>>
 
 # ❤️❤️ Tools Update Successful ❤️❤️
 
-# 💞💞 Version 1.1.0 💞💞
+# 💞💞 Version 2.0 💞💞
 
 # 👅👅 By Tech Abm 👅👅
 
