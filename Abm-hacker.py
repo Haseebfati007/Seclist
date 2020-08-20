@@ -1993,7 +1993,7 @@ def postx():
 	os.system('clear')
 	print logo
 	print "\033[1;97m «--------------------------------------------»"
-	print( "\x1b[1;32;92m[2] \033[1;33;98m>> Enter Posts link for Cloning \033[1;97m(\033[1;91mTech Abm\033[1;97m)") 
+	print( "\x1b[1;32;92m[1] \033[1;33;98m>> Enter Posts link for Cloning \033[1;97m(\033[1;91mTech Abm\033[1;97m)") 
 	time.sleep(0.05)
 	print( "\x1b[1;32;36m[0] \033[1;33;96m>> Back") 
 	print "\033[1;97m «--------------------------------------------»"
@@ -2004,7 +2004,7 @@ def pilih_postx():
 	if peak =="":
 		print "\x1b[1;91mFill in correctly"
 		pilih_postx()     
-	elif peak =="2":
+	elif peak =="1":
 		os.system('clear')
 		print logo
 		print "\033[1;97m «--------------------------------------------»"
