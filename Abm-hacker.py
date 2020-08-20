@@ -317,11 +317,11 @@ def menu():
         time.sleep(0.05)
         print "\033[1;32;98m[10] \033[1;91m>> \033[1;96mstart Cloning From Posts \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[11] \033[1;91m>> \033[1;93mstart Tools Reset And Update \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[11] \033[1;91m>> \033[1;93mTools Reset And Update \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[12] \033[1;91m>> \033[1;96mstart Star Cloning Testing \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[12] \033[1;91m>> \033[1;96mStar Cloning Testing \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
-        print "\033[1;32;98m[13] \033[1;91m>> \033[1;93mstart Star Cloning Abm Tools \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
+        print "\033[1;32;98m[13] \033[1;91m>> \033[1;93msStar Cloning Abm Tools \033[1;97m(\033[1;91mTech Abm\033[1;97m)" 
         time.sleep(0.05)
 	print "\033[1;32;98m[0] \033[1;96m>> Log out"
 	print "\033[1;97m «--------------------------------------------»"
