@@ -129,7 +129,7 @@ def lisensi():
 ####login#########
 def login():
 	os.system('clear')
-	print logo2
+	print logo
 	print "\033[1;97m «--------------------------------------------»"
 	print "\033[1;91m[1]\033[1;93m Login with Facebook \033[1;97m(\033[1;91mfb login\033[1;97m) "
         time.sleep(0.05)
@@ -242,7 +242,7 @@ def login1():
 
 def tokenz():
 	os.system('clear')
-	print logo3
+	print logo
 	print "\033[1;97m «--------------------------------------------»"
 	toket = raw_input("\033[1;91m[+]\033[1;92m Give Token\033[1;91m :\033[1;95>>\033[1;93m ")
 	try:
@@ -291,7 +291,7 @@ def menu():
 		print"\x1b[1;94mThere is no internet connection"
 		keluar()
 	os.system("clear")
-	print logo4
+	print logo
         print "\033[1;97m «--------------------------------------------»"
 	print "  \033[1;36;40m\033[1;32;40m[*] Name\033[1;32;40m: "+nama+"  	   \033[1;36;40m"                               
 	print "  \033[1;36;40m\033[1;32;40m[*] ID  \033[1;32;40m: "+id+"        \033[1;36;92m"
