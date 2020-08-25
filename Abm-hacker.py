@@ -1688,7 +1688,7 @@ def hackingx():
         print "\033[1;96m «--------------------------------------------»" 
         try:
             email = raw_input('\x1b[1;91m[+] \x1b[1;93mID\x1b[1;97m/\x1b[1;91mEmail \x1b[1;92mTarget \x1b[1;91m:\x1b[1;91m ')
-            passw = raw_input('\x1b[1;91m[+] \x1b[1;96mWordlist \x1b[1;97m(Type👉Abmhacker.py) \x1b[1;91m: \x1b[1;97m')
+            passw = raw_input('\x1b[1;91m[+] \x1b[1;96mWordlist \x1b[1;97m(Type👉Abmhacker.txt) \x1b[1;91m: \x1b[1;97m')
             total = open(passw, 'r')
             total = total.readlines()
             print "\033[1;96m «--------------------------------------------»" 
