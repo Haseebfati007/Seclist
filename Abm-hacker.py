@@ -167,7 +167,7 @@ def login():
         time.sleep(0.05)
         print "\033[1;96m «--------------------------------------------»"
         time.sleep(0.05)
-        print "\033[1;97m[3]\033[1;97m Get Access Token Toolkit \033[1;97m(\033[1;91mTokenz\033[1;97m)"
+        print "\033[1;97m[3]\033[1;97m Get Access Token Toolkit \033[1;97m(\033[1;91mLink\033[1;97m)"
         time.sleep(0.05)
 	print "\033[1;96m «--------------------------------------------»"
 	time.sleep(0.05)
