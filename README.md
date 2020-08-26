@@ -20,15 +20,19 @@
 
 # python2 Abm-hacker.py
 
+# Username : Abm
+
+# Password : Abm
+
 # All fb cloning in one Tools ✅
 
 # <<====================================>>
 
-# ❤️❤️ Tools Update Successful ❤️❤️
+# >> Tools Update Successful <<
 
-# 💞💞 Version 2.0 💞💞
+# >> Version 3.0 <<
 
-# 👅👅 By Tech Abm 👅👅
+# >> By Tech Abm <<
 
 # <<====================================>>
 
