@@ -32,7 +32,7 @@
 
 ![PicsArt_08-07-12 32 43](https://user-images.githubusercontent.com/52023076/89867871-b2bb7c00-db66-11ea-9d4e-8fc298a4fe99.jpg)
 
-### Follows me
+### Follows me 💯
 
 [![Github](https://img.shields.io/badge/Github-Tech--Abm-green?style=for-the-badge&logo=github)](https://github.com/Tech-abm)
 
