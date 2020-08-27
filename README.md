@@ -8,27 +8,27 @@
 
 ### Seclist Installation 💯
 
-- pkg update
+- `pkg update`
 
-- pkg upgrade
+- `pkg upgrade`
 
-- pkg install git
+- `pkg install git`
 
-- pkg install python2
+- `pkg install python2`
 
-- git clone https://github.com/Tech-abm/Seclist
+- `git clone https://github.com/Tech-abm/Seclist`
 
-- cd Seclist
+- `cd Seclist`
 
-- pip2 install mechanize
+- `pip2 install mechanize`
 
-- pip2 install requests
+- `pip2 install requests`
 
-- python2 Abm-hacker.py
+- `python2 Abm-hacker.py`
 
-- Username : Abm
+- `Username : Abm`
 
-- password : Abm
+- `password : Abm`
 
 > I am Not Responsible for the Misuse of this Tool !!
 
