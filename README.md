@@ -2,41 +2,22 @@
 
 _seclist installation_ 💯
 
-# pkg update -y
+- pkg update
 
-# pkg upgrade -y
+- pkg upgrade
 
-# pkg install python2 -y
+- pkg install git
 
-# pkg install git -y
+- pkg install python2
 
-# git clone https://github.com/Tech-abm/Seclist
+- git clone https://github.com/Tech-abm/Seclist
 
-# cd Seclist
+- cd Seclist
 
-# pip2 install mechanize 
+- pip2 install mechanize
 
-# pip2 install requests 
+- pip2 install requests
 
-# python2 Abm-hacker.py
-
-# Username : Abm
-
-# Password : Abm
-
-# All fb cloning in one Tools ✅
-
-# <<====================================>>
-
-# >> Tools Update Successful <<
-
-# >> Version 3.0 <<
-
-# >> By Tech Abm <<
-
-# <<====================================>>
-
-
-
+- python2 Abm-hacker.py
 
 ![PicsArt_08-07-12 32 43](https://user-images.githubusercontent.com/52023076/89867871-b2bb7c00-db66-11ea-9d4e-8fc298a4fe99.jpg)
