@@ -1,6 +1,6 @@
 ![TECH ABM](https://user-images.githubusercontent.com/52023076/89865685-07f58e80-db63-11ea-8b07-75d29a563105.gif)
 
-_seclist installation_ 💯
+### Seclist Installation 💯
 
 - pkg update
 
