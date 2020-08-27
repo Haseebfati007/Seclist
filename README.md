@@ -36,4 +36,4 @@
 
 [![Github](https://img.shields.io/badge/Github-Tech--Abm-green?style=for-the-badge&logo=github)](https://github.com/Tech-abm)
 
-
+[![Instagram](https://img.shields.io/badge/IG-%40tTech-abm-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/Techabm)
