@@ -1,6 +1,6 @@
-👍 _username : Abm_
 
-👍 _password : Abm_
+
+
 
 ![Screenshot_20200827-143208](https://user-images.githubusercontent.com/52023076/91424121-3edbcd80-e80e-11ea-9059-96c6781c1d9d.png)
 
@@ -23,6 +23,10 @@
 - pip2 install requests
 
 - python2 Abm-hacker.py
+
+- Username : Abm
+
+- password : Abm
 
 > I am Not Responsible for the Misuse of this Tool !!
 
