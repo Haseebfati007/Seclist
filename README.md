@@ -31,6 +31,9 @@
 - `password : Abm`
 
 ### Cloning Tools 💯
+
+- `https://github.com/Tech-abm/Seclist`
+
 - `cd Seclist`
 
 - `ls`
