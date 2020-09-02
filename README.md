@@ -42,8 +42,7 @@
 
 > I am Not Responsible for the Misuse of this Tool !!
 
-![PicsArt_08-20-01.54.06.png](https://user-images.githubusercontent.com/52023076/91970108-08012e00-eccc-11ea-89cf-90ede6a60dd6.png)
-![Screenshot_20200902-151216.png](https://user-images.githubusercontent.com/52023076/91969858-a5a82d80-eccb-11ea-9ea9-f990ac0edbc1.png)
+![PicsArt_09-02-08.50.41.jpg](https://user-images.githubusercontent.com/52023076/92006319-6db7df00-ecf9-11ea-9041-52b81c45b180.jpg)
 
 ### Follows me 💯
 
