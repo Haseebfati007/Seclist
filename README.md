@@ -32,7 +32,7 @@
 
 ### Cloning Tools 💯
 
-- `https://github.com/Tech-abm/Seclist`
+- `git clone https://github.com/Tech-abm/Seclist`
 
 - `cd Seclist`
 
