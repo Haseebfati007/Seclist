@@ -30,15 +30,8 @@
 
 - `password : Abm`
 
-### Cloning Tools 💯
 
-- `git clone https://github.com/Tech-abm/Seclist`
 
-- `cd Seclist`
-
-- `ls`
-
-- `python2 Cloning-tool.py`
 
 > I am Not Responsible for the Misuse of this Tool !!
 
